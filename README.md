@@ -67,6 +67,10 @@ una ves inicies sesión, ya puedes obtener el CLIENT_ID Y CLIENT_SECRET, para es
 - [ ] **Client_tye**: confidential
 - [ ] **Authorization Grant Type**: password 
 
+```json
+al obtener el  CLIENT_ID Y CLIENT_SECRET, agregalo en el archivo "config.json" que se encuentra en la raiz del proyecto
+```
+
 
 
 ## Descripción de los Endpoints
